@@ -1,6 +1,6 @@
 # 🎮 Connect 4 Web Game
 
-> **A modern, responsive, and interactive Connect 4 game built with HTML, CSS, and JavaScript.**
+> **A retro and interactive Connect 4 game built with HTML, CSS, and JavaScript.**
 
 ---
 
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Responsive-Yes-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Responsive-No-4CAF50?style=for-the-badge"/>
 </p>
 
 ---
@@ -27,20 +27,19 @@
 ---
 
 ## 🚀 Introduction
-Connect 4 is a timeless two-player strategy game. This web version is designed to be visually appealing, fully responsive, and easy to play on any device. Built as a portfolio project to demonstrate frontend skills, clean code, and user-focused design.
+Connect 4 is a timeless two-player strategy game. This web version is designed to be visually appealing and easy to play on your browser. Built as a portfolio project to demonstrate frontend skills, clean code, and user-focused design. (Also my first javascript project)
 
 ---
 
 ## 🛠️ Tech Stack
 - **HTML5** – Semantic markup for structure
-- **CSS3** – Custom styles, responsive design, and animations
+- **CSS3** – Custom styles and animations
 - **JavaScript** – Game logic and DOM manipulation
 
 ---
 
 ## ✨ Features
-- 🎨 **Modern UI:** Clean, colorful, and accessible
-- 📱 **Responsive:** Optimized for desktop and mobile
+- 🎨 **Retro UI:** Clean, colourful, and accessible
 - 🖱️ **Interactive:** Play with mouse or keyboard
 - 🏆 **Win Detection:** Horizontal, vertical, and diagonal
 - 🔄 **Instant Restart:** Play again with one click
@@ -60,7 +59,6 @@ Connect 4 is a timeless two-player strategy game. This web version is designed t
 ---
 
 ## 📸 Screenshots
-<!-- Replace with your own screenshot! -->
 ![Game Screenshot](/Connect4.png)
 
 ---
@@ -68,14 +66,14 @@ Connect 4 is a timeless two-player strategy game. This web version is designed t
 ## 🚢 Deployment
 This project is live and playable:
 
-[🌐 Play Now on Render.com](https://connect4-yotu.onrender.com/)
+[🌐 Demo Now](https://connect4-yotu.onrender.com/)
 
 ---
 
 ## 👤 About
-Created by **Mikepin23**
+Created by **Michael Pinsonneault**
 
 - [GitHub](https://github.com/Mikepin23)
-- [LinkedIn](https://www.linkedin.com/in/michael-pinsonneault) <!-- Add your real LinkedIn! -->
+- [LinkedIn](https://www.linkedin.com/in/michael-pinsonneault)
 
-> _Thank you for reviewing my project!
+> Thank you for reviewing my project!
