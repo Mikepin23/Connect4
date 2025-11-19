@@ -4,7 +4,13 @@
 
 ---
 
-![Connect 4 Banner](/Connect4.png)
+<!-- Connect4 Banner -->
+<p align="center">
+  <img src="Connect4.png" alt="Connect 4 Banner" width="600"
+    style="border:2px solid #333; border-radius:16px; box-shadow:0 4px 24px rgba(0,0,0,0.2);" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -55,11 +61,6 @@ Connect 4 is a timeless two-player strategy game. This web version is designed t
    cd Connect4
    ```
 2. **Open `index.html` in your browser.**
-
----
-
-## 📸 Screenshots
-![Game Screenshot](/Connect4.png)
 
 ---
 
