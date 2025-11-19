@@ -6,8 +6,7 @@
 
 <!-- Connect4 Banner -->
 <p align="center">
-  <img src="Connect4.png" alt="Connect 4 Banner" width="600"
-    style="border:2px solid #333; border-radius:16px; box-shadow:0 4px 24px rgba(0,0,0,0.2);" />
+  <img src="Connect4.png" alt="Connect 4 Banner" width="600"/>
 </p>
 
 ---
@@ -22,6 +21,7 @@
 ---
 
 ## 📑 Table of Contents
+
 1. [Introduction](#-introduction)
 2. [Tech Stack](#-tech-stack)
 3. [Features](#-features)
@@ -33,11 +33,13 @@
 ---
 
 ## 🚀 Introduction
+
 Connect 4 is a timeless two-player strategy game. This web version is designed to be visually appealing and easy to play on your browser. Built as a portfolio project to demonstrate frontend skills, clean code, and user-focused design. (Also my first javascript project)
 
 ---
 
 ## 🛠️ Tech Stack
+
 - **HTML5** – Semantic markup for structure
 - **CSS3** – Custom styles and animations
 - **JavaScript** – Game logic and DOM manipulation
@@ -45,6 +47,7 @@ Connect 4 is a timeless two-player strategy game. This web version is designed t
 ---
 
 ## ✨ Features
+
 - 🎨 **Retro UI:** Clean, colourful, and accessible
 - 🖱️ **Interactive:** Play with mouse or keyboard
 - 🏆 **Win Detection:** Horizontal, vertical, and diagonal
@@ -65,6 +68,7 @@ Connect 4 is a timeless two-player strategy game. This web version is designed t
 ---
 
 ## 🚢 Deployment
+
 This project is live and playable:
 
 [🌐 Demo Now](https://connect4-yotu.onrender.com/)
@@ -72,6 +76,7 @@ This project is live and playable:
 ---
 
 ## 👤 About
+
 Created by **Michael Pinsonneault**
 
 - [GitHub](https://github.com/Mikepin23)
