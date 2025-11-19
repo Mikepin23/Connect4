@@ -4,7 +4,7 @@
 
 ---
 
-![Connect 4 Banner](screenshot.png)
+![Connect 4 Banner](/Connect4.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -61,14 +61,14 @@ Connect 4 is a timeless two-player strategy game. This web version is designed t
 
 ## 📸 Screenshots
 <!-- Replace with your own screenshot! -->
-![Game Screenshot](screenshot.png)
+![Game Screenshot](/Connect4.png)
 
 ---
 
 ## 🚢 Deployment
 This project is live and playable:
 
-[🌐 Play Now on Render.com](<YOUR_RENDER_URL_HERE>)
+[🌐 Play Now on Render.com](https://connect4-yotu.onrender.com/)
 
 ---
 
@@ -76,6 +76,6 @@ This project is live and playable:
 Created by **Mikepin23**
 
 - [GitHub](https://github.com/Mikepin23)
-- [LinkedIn](https://www.linkedin.com/) <!-- Add your real LinkedIn! -->
+- [LinkedIn](https://www.linkedin.com/in/michael-pinsonneault) <!-- Add your real LinkedIn! -->
 
-> _Thank you for reviewing my project! I look forward to discussing how my skills can contribute to your team._
+> _Thank you for reviewing my project!
