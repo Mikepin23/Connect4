@@ -67,7 +67,7 @@ Connect 4 is a timeless two-player strategy game. This web version is designed t
 
 ---
 
-## 🚢 Deployment
+## 💻 Try It Yourself
 
 This project is live and playable:
 
