@@ -42,8 +42,10 @@ h1 {
 }
 
 .instructions {
-  margin: auto;
-  width: fit-content;
+  margin: 24px auto 0 auto;
+  max-width: 500px;
+  padding: 24px 28px 18px 28px;
+  background: transparent;
 }
 
 h3 {
@@ -53,10 +55,22 @@ h3 {
 }
 
 li {
-  padding-bottom: 20px;
-  list-style: none;
-  font-size: 20px;
-  text-align: justify;
+  padding-bottom: 14px;
+  list-style: disc inside;
+  font-size: 18px;
+  text-align: left;
+}
+
+.instructions ul ul {
+  margin-top: 6px;
+  margin-bottom: 10px;
+  padding-left: 18px;
+}
+
+.instructions ul ul li {
+  font-size: 16px;
+  list-style: circle inside;
+  padding-bottom: 6px;
 }
 
 #id {
