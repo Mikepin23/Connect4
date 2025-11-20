@@ -43,7 +43,7 @@ h1 {
 
 .instructions {
   margin: auto;
-  max-width: 70%;
+  width: fit-content;
 }
 
 h3 {
